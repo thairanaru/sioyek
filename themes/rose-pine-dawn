@@ -1,0 +1,26 @@
+# === ROSE PINE DAWN === #
+background_color           #faf4ed
+
+text_highlight_color       #dfdad9
+visual_mark_color          #9893a5
+
+search_highlight_color     #d7827e
+link_highlight_color       #56949f
+synctex_highlight_color    #f2e9e1
+
+highlight_color_a          #b4637a
+highlight_color_b          #56949f
+highlight_color_c          #ea9d34
+highlight_color_d          #907aa9
+highlight_color_e          #d7827e
+highlight_color_f          #286983
+
+
+custom_background_color    #faf4ed
+custom_text_color          #575279
+
+ui_text_color              #575279
+ui_background_color        #f2e9e1
+ui_selected_text_color     #575279
+ui_selected_background_color #dfdad9
+
